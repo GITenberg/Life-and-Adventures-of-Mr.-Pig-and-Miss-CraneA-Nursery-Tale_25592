@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25592#Life-and-Adventures-of-Mr.-Pig-and-Miss-CraneA-Nursery-Tale
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
 identifiers:
